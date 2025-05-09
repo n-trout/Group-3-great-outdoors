@@ -4,7 +4,7 @@
 ### Timeline: 5/1/2025 - 6/23/2025
 ### Project Goal: Creating a working website for the non profit with the capabilities and nature like asthetic that fits their needs
 
-
+ 
 
 # Team Members:
 ## Nicholas Trout
@@ -26,16 +26,16 @@
 ### Strengths
 ### Weaknesses
 ### Role
-
+ 
 # Roles and Responsibilities
 ## Role 1
 ## Role 2
 ## Role 3
 ## Role 4
-
+ 
 # Core Values
 
-
+ 
 # Group Norms
 ## Communication
 ### Stand-ups, Text chain, Canvas and GitHub
@@ -48,7 +48,7 @@
 ### Anthony -
 ## Feedback and conflict agreements:
 ### (Pending)
-
+ 
 # Metrics of Success
 ## Metric 1: A working Website
 ## (Pending)
