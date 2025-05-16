@@ -1,7 +1,7 @@
 # Project Overview
 ## Great outdoors
 ### Creating a website for The Great Outdoors, a non profit group promoting outdoor exploration within the pacific northwest
-### Timeline: 5/1/2025 - 6/23/2025
+### Timeline: 5/1/2025 - 6/13/2025
 ### Project Goal: Creating a working website for the non profit with the capabilities and nature like asthetic that fits their needs
 
  
@@ -10,7 +10,7 @@
 ## Nicholas Trout
 ### Strengths: flexibility 
 ### Weaknesses: communication and 
-### Role: group lead?
+### Role: group lead
 
 ## Ankhzaya Batnasan
 ### Strengths: I am a quick learner who adapts to new technologies and environments easily.
@@ -34,7 +34,9 @@
 ## Role 4
  
 # Core Values
-##
+### Treating both team members and clients with respect
+### Resolving issues and disputes with each other in a timely manner
+### Keep each other in the loop about changes to project or meetings
  
 # Group Norms
 ## Communication
@@ -51,10 +53,13 @@
  
 # Metrics of Success
 ## Metric 1: A working website
-## Metric 2: 
+### A website that adheres to the clients requests and requirements
+## Metric 2: comfortability using github
+### ablility to navigate the website and familiarity with version control
 
 # Standards of Quality
 ## Timeliness - Making sure to uphold deadlines for each aspect of the project
-## (Pending)
+## Communication - Keeping in touch with blockers
+
 
 
