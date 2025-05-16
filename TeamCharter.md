@@ -18,9 +18,9 @@
 ### Role
 
 ## Linh Nguyen
-### Strengths
-### Weaknesses
-### Role
+### Strengths communicates clearly and effectively with team, focus on tasks at hand, ask questions when confused, brainstorms and gather new ideas and information, thinking outside the box
+### Weaknesses learning how to code and all the different types of languages in terms of IT at a fast pace. New beginner at Information and technology.  
+### Role team organizer and scheduler 
 
 ## Anthony Parramore
 ### Strengths
@@ -39,12 +39,12 @@
 # Group Norms
 ## Communication
 ### Stand-ups, Text chain, Canvas and GitHub
-## Meeting Frequency
-### Thursdays after class and Wednesday's (Pending)
+## Meeting Frequency 
+### Thursdays after class and Wednesday's at 3pm 
 ## Workstyle Preferences
 ### Nicholas - Prefer to work on things quietly, willing to collaborate with others when needed
 ### Ankhzaya - 
-### Linh - 
+### Linh - likes to type or talk online or in person if needed, gets along with everyone    
 ### Anthony -
 ## Feedback and conflict agreements:
 ### (Pending)
