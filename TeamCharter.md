@@ -23,9 +23,9 @@
 ### Role team organizer and scheduler 
 
 ## Anthony Parramore
-### Strengths
-### Weaknesses
-### Role
+### Strengths willingness to learn new things, I love all things IT, open and honest about my weaknesses, creative and have the ability to expand on ideas.
+### Weaknesses new to the IT profession, hard to comphrehend code, easily confused by the instructions pertaining to IT.
+### Role : unsure just yet
  
 # Roles and Responsibilities
 ## Group lead: help guide the group to finishing assignments
@@ -47,7 +47,7 @@
 ### Nicholas - Prefer to work on things quietly, willing to collaborate with others when needed
 ### Ankhzaya - Prefer to my own self
 ### Linh - likes to type or talk online or in person if needed, gets along with everyone    
-### Anthony -
+### Anthony - Enjoy working with others, can work either alone or with a team.
 ## Feedback and conflict agreements:
 ### Feedback can be asked for when needed, giving feedback whenever free time is available. Conflicts will be resolved in weekly meetings
  
