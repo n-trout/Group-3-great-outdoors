@@ -13,9 +13,9 @@
 ### Role
 
 ## Ankhzaya Batnasan
-### Strengths
-### Weaknesses
-### Role
+### Strengths: I am a quick learner who adapts to new technologies and environments easily.
+### Weaknesses: I sometimes struggle to ask for help, preferring to figure things out on my own.
+### Role : Support Specialist, Front-End
 
 ## Linh Nguyen
 ### Strengths communicates clearly and effectively with team, focus on tasks at hand, ask questions when confused, brainstorms and gather new ideas and information, thinking outside the box
@@ -43,7 +43,7 @@
 ### Thursdays after class and Wednesday's at 3pm 
 ## Workstyle Preferences
 ### Nicholas - Prefer to work on things quietly, willing to collaborate with others when needed
-### Ankhzaya - 
+### Ankhzaya - Prefer to my own self
 ### Linh - likes to type or talk online or in person if needed, gets along with everyone    
 ### Anthony -
 ## Feedback and conflict agreements:
