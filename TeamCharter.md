@@ -25,7 +25,7 @@
 ## Anthony Parramore
 ### Strengths willingness to learn new things, I love all things IT, open and honest about my weaknesses, creative and have the ability to expand on ideas.
 ### Weaknesses new to the IT profession, hard to comphrehend code, easily confused by the instructions pertaining to IT.
-### Role : unsure just yet
+### Role : Support, Quality Assurance
  
 # Roles and Responsibilities
 ## Group lead: help guide the group to finishing assignments
