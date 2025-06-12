@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>The Great Outdoors</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="home-page">
+  <header>
+    <nav>
+      <div class="logo">Logo</div>
+
+      <!-- Navigation Links -->
+      <div class="nav-links">
+        <a href="index.html">Home</a>
+
+        <!-- Dropdown Menu -->
+        <div class="dropdown">
+          <button class="dropbtn" aria-haspopup="true" aria-expanded="false">Activities ▾</button>
+          <div class="dropdown-content" id="dropdown-menu">
+            <a href="boating.html">Boating</a>
+            <a href="beaches.html">Beaches</a>
+            <a href="hiking.html">Hiking</a>
+            <a href="kayaking.html">Kayaking</a>
+            <a href="FerryRides.html">Ferry Rides</a>
+            <a href="Parks.html">Parks</a>
+          </div>
+        </div>
+
+        <a href="aboutus.html">About us</a>
+        <a href="Blog.html">Blog</a>
+      </div>
+
+      <!-- Language & Search -->
+      <div class="lang-search">
+        <select>
+          <option>English</option>
+        </select>
+        <input type="text" placeholder="Search..." />
+        <span>🔍</span>
+      </div>
+    </nav>
+
+    <!-- Homepage Title -->
+    <div class="hero-title">The Great Outdoors</div>
+  </header>
+
+  <!-- Content Section -->
+  <section class="content-box">
+    <h2>Welcome</h2>
+    <p>Explore outdoor activity for fun.</p>
+  </section>
+
+  <!-- JavaScript for Dropdown Toggle -->
+  <script>
+    const dropBtn = document.querySelector('.dropbtn');
+    const menu = document.getElementById('dropdown-menu');
+
+    dropBtn.addEventListener('click', function (e) {
+      e.stopPropagation();
+      menu.classList.toggle('show');
+    });
+
+    window.addEventListener('click', function () {
+      if (menu.classList.contains('show')) {
+        menu.classList.remove('show');
+      }
+    });
+  </script>
+</body>
+</html>
