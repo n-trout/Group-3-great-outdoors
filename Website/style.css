@@ -1,0 +1,183 @@
+body {
+  margin: 0;
+  font-family: Georgia, serif;
+  background-color: #2f3d22;
+}
+
+/* Header - show background only on home page */
+header {
+  color: white;
+  position: relative;
+  height: 350px;
+}
+
+body.home-page header {
+  background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+body:not(.home-page) header {
+  background: none;
+  height: auto;
+}
+
+body:not(.home-page) .hero-title {
+  display: none;
+}
+
+/* Navigation */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 40px;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.logo {
+  background: white;
+  color: black;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.nav-links {
+  display: flex;
+  gap: 30px;
+  position: relative;
+}
+
+.nav-links > * {
+  display: flex;
+  align-items: center;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+.nav-links a:hover {
+  color: #ccc;
+}
+
+/* Dropdown */
+.dropbtn {
+  background: none;
+  border: none;
+  color: white;
+  font-weight: 500;
+  font-size: 1em;
+  cursor: pointer;
+  padding: 10px 0;
+  text-align: left;
+  font-family: inherit;
+  text-decoration: none;
+  line-height: 1.5;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 180px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  z-index: 1;
+  top: 35px;
+}
+
+.dropdown-content.show {
+  display: block;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 10px 15px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  background-color: #f2f2f2;
+}
+
+/* Language and search */
+.lang-search {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.lang-search select,
+.lang-search input {
+  padding: 6px 10px;
+  font-size: 0.9em;
+  border-radius: 5px;
+  border: none;
+}
+
+/* Hero title */
+.hero-title {
+  text-align: center;
+  font-size: 3em;
+  text-shadow: 2px 2px 4px #000;
+  position: absolute;
+  bottom: 20px;
+  width: 100%;
+}
+
+/* Content box */
+.content-box {
+  background-color: #eaece6;
+  margin: 0 auto;
+  margin-top: 25px;
+  width: 90%;
+  max-width: 960px;
+  border-radius: 10px;
+  padding: 100px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.15);
+  font-size: 1.1em;
+  color: #111;
+}
+
+/* Backgrounds for pages using local images */
+body.boating-page    { background-image: url('images/boating.png'); }
+body.beaches-page    { background-image: url('images/beaches.png'); }
+body.hiking-page     { background-image: url('images/hiking.jpg'); }
+body.kayaking-page   { background-image: url('images/kayaking.jpg'); }
+body.Ferry-page     { background-image: url('images/ferry.jpg'); }
+body.park-page       { background-image: url('images/parks.jpg'); }
+body.about-page      { background-image: url('images/about.jpg'); }
+body.blog-page       { background-image: url('images/blog.jpg'); }
+
+/* Common background styles for all themed pages */
+body.boating-page,
+body.beaches-page,
+body.hiking-page,
+body.kayaking-page,
+body.Ferry-page,
+body.park-page,
+body.about-page,
+body.blog-page {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, 0.5);
+}
